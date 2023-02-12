@@ -2,7 +2,6 @@
 
 ![pexels-kaique-rocha-109919](https://user-images.githubusercontent.com/85225054/218306896-3ce9d1a1-96b0-42f7-8725-c3cbbab39280.jpg)
 
-
 #### This guide will provide instructions on how to convert OIDv4 data into the YOLO format for use with YOLOv4 object detection algorithms.
 
 #### Getting Started
