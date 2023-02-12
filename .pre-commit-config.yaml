@@ -6,4 +6,4 @@
     entry: some-hook
     language: python
     stages: [commit]
-    enabled: Fals
+    enabled: False
