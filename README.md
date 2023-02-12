@@ -5,13 +5,13 @@
 #### This guide will provide instructions on how to convert OIDv4 data into the YOLO format for use with YOLOv4 object detection algorithms.
 
 #### Getting Started
-``` git clone https://github.com/prince0310/Men-wome-detection-using-yolov8-.git ```
+``` git clone https://github.com/prince0310/Men-wome-detection-using-yolov8-.git
+```
 
 <details open>
 <summary>Dataset</summary>
   <br>
   For training custom data set on yolo model you need to have data set arrangement in yolo format. which includes Images and Their annotation file.
-  
   ```                
 Custom dataset
         |
