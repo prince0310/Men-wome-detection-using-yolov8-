@@ -12,7 +12,15 @@
 <details open>
 <summary>Dataset</summary>
   <br>
-  For training custom data set on yolo model you need to have data set arrangement in yolo format. which includes Images and Their annotation file.
+  For training custom data set on yolo model you need to have data set arrangement in yolo format. which includes Images and Their annotation file.<br>
+  
+  ##### clone the repository and run donload the data set and their annotation file 
+  
+  ``` git clone https://github.com/prince0310/OIDv4_ToolKit.git ```
+  
+  ##### Implement ```convert annotation.ipynb``` notebook  <br>
+  
+  it will create data in below format 
   
 ```                
 Custom dataset
