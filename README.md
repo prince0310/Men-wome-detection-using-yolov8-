@@ -12,7 +12,8 @@
 <summary>Dataset</summary>
   <br>
   For training custom data set on yolo model you need to have data set arrangement in yolo format. which includes Images and Their annotation file.
-  ```                
+  
+```                
 Custom dataset
         |
         |─── train
